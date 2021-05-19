@@ -9,6 +9,8 @@ In this lab you will create a Tree fractal which uses recursions.
 
 Scale is the multiplier of the size being drawn.
 
+![TreeFactor](https://user-images.githubusercontent.com/35514180/118866183-bc210400-b8af-11eb-8109-2f22a4a09c5c.jpg)
+
 **Instructions**
 
 This is a bonus lab so majority of the research is left for you.

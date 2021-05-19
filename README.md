@@ -11,22 +11,18 @@ Scale is the multiplier of the size being drawn.
 
 ![TreeFactor](https://user-images.githubusercontent.com/35514180/118866183-bc210400-b8af-11eb-8109-2f22a4a09c5c.jpg)
 
-**Hints**
+## Explanation of Recursion Calculation
 
 ![CalculationXandY](https://user-images.githubusercontent.com/35514180/118867020-a19b5a80-b8b0-11eb-8b76-2fc63d646566.png)
 
 http://zonalandeducation.com/mstm/physics/mechanics/forces/forceComponents/forceComponents.html
 
 
-
-
-
-
-
+![DrawingTree](https://user-images.githubusercontent.com/35514180/118868417-28046c00-b8b2-11eb-920c-ebdf3b850122.png)
 
 http://zonalandeducation.com/mstm/physics/mechanics/forces/forceComponents/forceComponents.html
 
-**Extra**
+## Extra Information About Factals Trees
 
 Below is a good example of how how the process should work.
 

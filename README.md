@@ -3,7 +3,7 @@ Tree Factorials in Java Language
 
 **Introduction**
 
-The idea is to create a method inside of the factorials.model.Tree class which will create what is in the screenshot above. There are other examples of different fractals in the skeleton project. You can use any of the code given to you.
+The idea is to create a method inside of the factorials.model.Tree class which will create what is in the screenshot below. There are other examples of different fractals in the skeleton project. You can use any of the code given to you.
 
 **ScreenShot**
 
